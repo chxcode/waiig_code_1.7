@@ -1,4 +1,4 @@
-# Writing An Interpreter In Go
+# Writing An Interpreter In Go 《用 Go 语言自制解释器》
 
 Thank you for purchasing "Writing An Interpreter In Go"!
 
